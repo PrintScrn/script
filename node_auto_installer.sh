@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\e[31mInstalling: NodeJS, NPM.\e[0m"
+echo -e "\e[31msatana auto dependency installer\e[0m"
 apt-get -y install sudo;
 sudo apt update -y;
 sudo apt -y upgrade;
