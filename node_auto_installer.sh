@@ -9,3 +9,4 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -;
 sudo apt -y install nodejs;
 sudo apt -y install htop vnstat;
 sudo apt -y install screen;
+sudo apt -y install git;
